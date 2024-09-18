@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/dejan-brni%C4%87-75027615/">
     <img src="https://img.shields.io/badge/dejanbrnic-669bbc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://github.com/dejo095" target="_blank">
+<a href="https://github.com/095dejo" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-4f772d.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=dejo095&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=095dejo&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -69,17 +69,17 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dejo095&theme=github_dark" alt="Dejan's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=dejo095&theme=merko" alt="Dejan's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=095dejo&theme=github_dark" alt="Dejan's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=095dejo&theme=merko" alt="Dejan's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dejo095&theme=github_dark" alt="Dejan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dejo095&theme=github_dark&utcOffset=10" alt="Dejan's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dejo095&theme=github_dark" alt="Dejan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dejo095&theme=github_dark" alt="Dejan's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=095dejo&theme=github_dark" alt="Dejan's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=095dejo&theme=github_dark&utcOffset=10" alt="Dejan's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=095dejo&theme=github_dark" alt="Dejan's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=095dejo&theme=github_dark" alt="Dejan's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
